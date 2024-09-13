@@ -19,7 +19,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 - **Coupons Used (Last 30 Days)**: 9,410
 - **Cashback in Last 30 Days**: $997.77K
 
-**1. Total Customers vs. Churned Customers**
+###**1. Total Customers vs. Churned Customers**###
 
 •	Total Customers: This metric represents the total number of customers within the dataset or organization. It provides a baseline for understanding the scale of the business and the total customer base from which churn is analyzed.
 
