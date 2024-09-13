@@ -19,7 +19,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 - **Coupons Used (Last 30 Days)**: 9,410
 - **Cashback in Last 30 Days**: $997.77K
 
-1. Total Customers vs. Churned Customers
+**1. Total Customers vs. Churned Customers**
 
 •	Total Customers: This metric represents the total number of customers within the dataset or organization. It provides a baseline for understanding the scale of the business and the total customer base from which churn is analyzed.
 
@@ -29,7 +29,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Understanding the proportion of churned customers helps gauge the overall effectiveness of retention strategies. A high churn rate might signal the need for immediate interventions such as improving the customer experience, offering loyalty programs, or enhancing customer support.
 
-2. Complaints (Last 30 Days)
+**2. Complaints (Last 30 Days)**
 
 •	Metric Definition: The number of complaints received from customers in the last 30 days.
 
@@ -37,7 +37,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: A large volume of complaints often indicates dissatisfaction, which directly correlates with churn. Proactively addressing complaints by improving service quality can help reduce churn. Analyzing complaint patterns helps identify root causes for customer dissatisfaction and prioritizes areas for improvement.
 
-3. Time Spent on App (Total Hours)
+**3. Time Spent on App (Total Hours)**
 
 •	Metric Definition: Total hours spent by customers on the app over a period (e.g., last 30 days).
 
@@ -45,7 +45,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Higher app engagement usually indicates satisfied and loyal customers. If the time spent on the app decreases, it can indicate poor user experience, reduced interest, or dissatisfaction, all of which increase the risk of churn. Encouraging higher engagement through personalized recommendations or an enhanced user interface can lead to better retention.
 
-4. Max Tenure
+**4. Max Tenure**
 
 •	Metric Definition: The longest duration for which any customer has stayed with the company.
 
@@ -53,7 +53,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Customers with a longer tenure are generally more loyal, while newer customers are at a higher risk of churn. Understanding tenure helps businesses focus on engaging and retaining new customers through personalized offers or enhanced onboarding experiences.
 
-5. Devices Registered
+**5. Devices Registered**
 
 •	Metric Definition: The total number of devices registered by the customer base.
 
@@ -61,7 +61,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Customers who have registered multiple devices tend to be more integrated into the platform’s ecosystem and are less likely to churn. Encouraging users to register multiple devices through added incentives can deepen their engagement and reduce the likelihood of leaving.
 
-6. Coupons Used (Last 30 Days)
+**6. Coupons Used (Last 30 Days)**
 
 •	Metric Definition: The number of coupons redeemed by customers in the last 30 days.
 
@@ -69,7 +69,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Customers who frequently use coupons tend to be more engaged and value-conscious, which may increase loyalty. Monitoring coupon usage can help identify highly engaged, price-sensitive customers. By providing timely coupons and discounts, businesses can incentivize repeat purchases and prevent churn.
 
-7. Cashback (Last 30 Days)
+**7. Cashback (Last 30 Days)**
 
 •	Metric Definition: The total value of cashback issued to customers in the last 30 days.
 
@@ -77,7 +77,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Cashback programs are effective in fostering customer loyalty, particularly for price-conscious customers. Offering cashback as part of the rewards strategy encourages customers to return and make repeat purchases, thus reducing churn.
 
-8. Churn by City Tier
+**8. Churn by City Tier**
 
 •	Metric Definition: Breakdown of customer churn by the city tier (e.g., Tier 1, Tier 2, Tier 3).
 
@@ -85,7 +85,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Customers in different city tiers exhibit varying churn patterns, with factors like income level and competition influencing their loyalty. Tier-based churn insights enable businesses to craft location-specific strategies, such as targeted promotions or personalized customer support, to retain customers in areas with higher churn.
 
-9. Churn by Gender
+**9. Churn by Gender**
 
 •	Metric Definition: The distribution of churn across gender (e.g., male, female, or other gender categories).
 
@@ -93,7 +93,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Understanding churn by gender helps identify whether there are gender-based disparities in customer behavior. If churn is significantly higher for a particular gender, businesses can create targeted campaigns or tailor experiences to better meet the needs of that group, reducing churn.
 
-10. Churn by Marital Status
+**10. Churn by Marital Status**
 
 •	Metric Definition: The churn rate categorized by marital status (e.g., single, married, divorced).
 
@@ -101,7 +101,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Marital status may influence purchasing behavior and brand loyalty. Married customers, for instance, may have more stable purchasing habits, while single customers may churn more frequently due to differing needs. Customizing marketing campaigns for specific marital statuses, such as offering household-related bundles or family plans, can improve retention.
 
-11. Preferred Payment Method
+**11. Preferred Payment Method**
 
 •	Metric Definition: The breakdown of customer churn by the preferred payment method (e.g., credit card, digital wallet, cash on delivery).
 
@@ -109,7 +109,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Payment convenience plays a crucial role in customer satisfaction. Customers who prefer methods like digital wallets or credit cards may have a smoother experience than those relying on cash on delivery (COD). If churn is higher among certain payment methods, businesses can focus on improving those experiences or offering incentives for easier payment methods to enhance retention.
 
-12. Preferred Login Device
+**12. Preferred Login Device**
 
 •	Metric Definition: Churn analysis based on the device customers prefer for logging into the platform (e.g., mobile phone, desktop, tablet).
 
@@ -117,7 +117,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: The device customers use to interact with the platform can impact their overall experience. If churn is higher on certain devices, such as desktop, it may indicate poor user experience or accessibility issues. Businesses should focus on optimizing the user experience across all devices, with a particular emphasis on mobile, which is increasingly popular among customers.
 
-13. Preferred Order Category
+**13. Preferred Order Category**
 
 •	Metric Definition: The analysis of churn based on customers' preferred shopping categories (e.g., electronics, groceries, fashion).
 
@@ -125,7 +125,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: Customer loyalty can vary significantly by product category. Customers who prefer specific categories may churn if they find better deals or product selections elsewhere. Understanding churn rates within order categories allows businesses to improve product offerings, pricing strategies, or marketing efforts in categories with higher churn risk.
 
-14. Days Since Last Order
+**14. Days Since Last Order**
 
 •	Metric Definition: The number of days since a customer placed their last order.
 
@@ -133,7 +133,7 @@ The dataset used for this analysis is sourced from Kaggle: [E-commerce Customer 
 
 •	Insight: A longer duration since the last order often signals disengagement, making these customers prime candidates for churn. Identifying customers who have not ordered in a while allows businesses to proactively target them with personalized offers, email reminders, or loyalty programs to re-engage them and reduce churn risk.
 
-15. Order Amount Hike (Year-over-Year)
+**15. Order Amount Hike (Year-over-Year)**
 
 •	Metric Definition: The percentage increase or decrease in the average order value year-over-year.
 
