@@ -1,4 +1,5 @@
 # E-commerce Customer Churn Analysis Dashboard
+(https://app.powerbi.com/links/9IlCjeikxh?ctid=843d2f7f-6c62-4899-b795-c70cdfb5c3eb&pbi_source=linkShare)
 
 ## Overview
 This repository contains an interactive **Customer Churn Analysis Dashboard** designed to visualize the key metrics and trends that influence customer churn in an e-commerce platform. The dashboard helps identify factors contributing to customer churn, such as customer tenure, device preferences, payment methods, and coupon usage, providing actionable insights for improving customer retention strategies.
