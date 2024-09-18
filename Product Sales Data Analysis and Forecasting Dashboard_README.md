@@ -67,4 +67,4 @@ Insight: "Canon ImageCLASS 2200 Advanced Copier" is the top-selling product, ind
 
 ## Acknowledgments
 
-This project utilizes the Retail Sales Forecasting dataset available on Kaggle. Special thanks to Rohit Sahoo for providing this comprehensive dataset, which has been instrumental in conducting the analysis and developing the forecasting model.
+This project utilizes the Retail Sales Forecasting dataset available on Kaggle (https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting). Special thanks to Rohit Sahoo for providing this comprehensive dataset, which has been instrumental in conducting the analysis and developing the forecasting model.
